@@ -1,7 +1,7 @@
 {
     "assignment_max_duration_seconds": 120,
     "defaults": {
-        "default_overlap_for_new_task_suites": 3
+        "default_overlap_for_new_tasks": 3
     },
     "filter": {
         "and": [
